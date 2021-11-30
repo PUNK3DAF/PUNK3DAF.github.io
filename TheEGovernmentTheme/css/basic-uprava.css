@@ -1687,7 +1687,8 @@ body > header .my-egov ul li.has-child > a:after {
   transform: scaleX(-1);
 }
 body > header .my-egov ul li.has-child:hover > a:after {
-  background: url(../img/menuarrow.svg) 100% 50% no-repeat;
+  background: url(http://euprava.gov.rs/TheEGovernmentTheme/img/menuarrow.svg)
+    100% 50% no-repeat;
   -webkit-filter: brightness(0) invert(1);
   filter: brightness(0) invert(1);
 }
@@ -2064,7 +2065,8 @@ body > header nav > ul > li > ul li.has-child > a:after {
   width: 40px;
 }
 body > header nav > ul > li > ul li.has-child:hover > a:after {
-  background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/menuarrow.svg) 100% 50% no-repeat;
+  background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/menuarrow.svg)
+    100% 50% no-repeat;
   -webkit-filter: brightness(0) invert(1);
   filter: brightness(0) invert(1);
 }
@@ -2171,7 +2173,8 @@ body > header .settings-box ul li.active a:after {
   position: absolute;
   right: 0;
   top: 0;
-  background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/checkmark.svg) no-repeat 100% 3px #4a90e2;
+  background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/checkmark.svg)
+    no-repeat 100% 3px #4a90e2;
   background-size: 10px 7px;
   width: 15px;
   height: 15px;
@@ -2347,9 +2350,11 @@ h2 {
   top: 0;
   height: 100%;
   width: 200px;
-  background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/navarrow2.svg) no-repeat 20% 50%,
+  background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/navarrow2.svg)
+      no-repeat 20% 50%,
     -webkit-gradient(linear, left top, right top, from(rgba(0, 0, 0, 0.3)), color-stop(50%, rgba(0, 0, 0, 0.3)), to(transparent));
-  background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/navarrow2.svg) no-repeat 20% 50%,
+  background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/navarrow2.svg)
+      no-repeat 20% 50%,
     linear-gradient(
       90deg,
       rgba(0, 0, 0, 0.3) 0,
@@ -2386,7 +2391,8 @@ h2 {
   height: 12px;
   right: 14px;
   top: calc(50% - 6px);
-  background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/menuarrow.svg) no-repeat 50% 50%;
+  background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/menuarrow.svg)
+    no-repeat 50% 50%;
   background-size: contain;
 }
 .home-sear {
@@ -2432,7 +2438,8 @@ h2 {
   -webkit-appearance: none;
   border: none;
   text-indent: -10000px;
-  background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/seararrow.svg) no-repeat 50% 50% #4a4a4a;
+  background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/seararrow.svg)
+    no-repeat 50% 50% #4a4a4a;
   background-size: 24px 24px;
   cursor: pointer;
   -webkit-transition: 0.3s;
@@ -2610,7 +2617,8 @@ h2 {
   margin-left: 10px;
   display: inline-block;
   height: 12px;
-  background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/morearrow.svg) no-repeat 100% 50%;
+  background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/morearrow.svg)
+    no-repeat 100% 50%;
   background-size: 32px 12px;
   position: relative;
   right: 0;
@@ -2632,7 +2640,8 @@ h2 {
   height: 12px;
   right: 10px;
   top: calc(50% - 6px);
-  background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/morearrow.svg) no-repeat 100% 50%;
+  background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/morearrow.svg)
+    no-repeat 100% 50%;
   background-size: 32px 12px;
   -webkit-transition: 0.3s;
   transition: 0.3s;
@@ -2882,9 +2891,11 @@ h2 {
   top: 0;
   height: 100%;
   width: 100px;
-  background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/navarrow3.svg) no-repeat 20% 50%,
+  background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/navarrow3.svg)
+      no-repeat 20% 50%,
     -webkit-gradient(linear, left top, right top, from(hsla(0, 0%, 100%, 0.3)), color-stop(50%, hsla(0, 0%, 100%, 0.3)), to(hsla(0, 0%, 100%, 0)));
-  background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/navarrow3.svg) no-repeat 20% 50%,
+  background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/navarrow3.svg)
+      no-repeat 20% 50%,
     linear-gradient(
       90deg,
       hsla(0, 0%, 100%, 0.3) 0,
@@ -2945,9 +2956,11 @@ h2 {
   top: 0;
   height: 100%;
   width: 100px;
-  background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/navarrow3.svg) no-repeat 20% 50%,
+  background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/navarrow3.svg)
+      no-repeat 20% 50%,
     -webkit-gradient(linear, left top, right top, from(hsla(0, 0%, 100%, 0.3)), color-stop(50%, hsla(0, 0%, 100%, 0.3)), to(hsla(0, 0%, 100%, 0)));
-  background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/navarrow3.svg) no-repeat 20% 50%,
+  background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/navarrow3.svg)
+      no-repeat 20% 50%,
     linear-gradient(
       90deg,
       hsla(0, 0%, 100%, 0.3) 0,
@@ -2980,7 +2993,8 @@ h2 {
 .breadcrumbs ul li {
   padding-right: 16px;
   margin-right: 10px;
-  background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/bcarrow.svg) no-repeat 100% 50%;
+  background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/bcarrow.svg)
+    no-repeat 100% 50%;
   background-size: 5px 9px;
 }
 .breadcrumbs ul li:last-of-type {
@@ -3210,7 +3224,8 @@ h2 {
   display: block;
   padding: 0 16px;
   line-height: 48px;
-  background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/select.svg) no-repeat calc(100% - 33px) 50%;
+  background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/select.svg)
+    no-repeat calc(100% - 33px) 50%;
   background-size: 8px 5px;
 }
 .gen-form .form-row .select.select-custom span {
@@ -3407,7 +3422,8 @@ h2 {
   font-weight: 700;
   font-size: 1.2rem;
   padding-left: 70px;
-  background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/attach.svg) 0 50% no-repeat;
+  background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/attach.svg) 0
+    50% no-repeat;
   background-size: 50px 44px;
   padding-top: 10px;
   padding-bottom: 10px;
@@ -3560,7 +3576,8 @@ h2 {
   right: 30px;
   -webkit-filter: brightness(0) invert(1);
   filter: brightness(0) invert(1);
-  background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/menuarrow.svg) no-repeat 50% 50%;
+  background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/menuarrow.svg)
+    no-repeat 50% 50%;
   background-size: contain;
   pointer-events: none;
 }
@@ -3571,7 +3588,8 @@ h2 {
   height: 12px;
   top: calc(50% - 6px);
   left: 30px;
-  background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/backarrow.svg) no-repeat 50% 50%;
+  background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/backarrow.svg)
+    no-repeat 50% 50%;
   background-size: contain;
 }
 .side-split > aside ul.with-levels li.active:after {
@@ -3710,7 +3728,8 @@ h2 {
 .side-split > aside .new-doc:before {
   width: 20px;
   height: 20px;
-  background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/new-doc.svg) no-repeat 50% 50%;
+  background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/new-doc.svg)
+    no-repeat 50% 50%;
   background-size: contain;
   content: "";
   position: absolute;
@@ -3838,7 +3857,8 @@ h2 {
   text-indent: -10000px;
   flex-shrink: 0;
   cursor: pointer;
-  background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/seararrow.svg) 50% 50% no-repeat #4a4a4a;
+  background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/seararrow.svg)
+    50% 50% no-repeat #4a4a4a;
   background-size: 24px 24px;
   -webkit-transition: 0.3s;
   transition: 0.3s;
@@ -4230,7 +4250,8 @@ h2 {
 .post-links .link:after {
   content: "";
   position: absolute;
-  background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/linkarrow.svg) no-repeat 50% 50%;
+  background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/linkarrow.svg)
+    no-repeat 50% 50%;
   background-size: contain;
   width: 32px;
   height: 12px;
@@ -4455,7 +4476,8 @@ h2 {
   width: 20px;
   height: 20px;
   margin-right: 9px;
-  background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/star.svg) no-repeat 50% 50%;
+  background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/star.svg)
+    no-repeat 50% 50%;
   background-size: contain;
 }
 .service-rating .stars span.active {
@@ -4715,7 +4737,9 @@ h2 {
   width: 30px;
   height: 30px;
   margin-left: 10px;
-  background: #9b9b9b url(https://euprava.gov.rs/TheEGovernmentTheme/img/seararrow.svg) 50% 50%/16px auto no-repeat;
+  background: #9b9b9b
+    url(https://euprava.gov.rs/TheEGovernmentTheme/img/seararrow.svg) 50% 50%/16px
+    auto no-repeat;
   border-radius: 15px;
   -webkit-transition: 0.3s;
   transition: 0.3s;
@@ -5597,7 +5621,8 @@ table.me_person td {
   height: 100%;
   right: 0;
   width: 15px;
-  background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/totop.svg) no-repeat 0 40%;
+  background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/totop.svg)
+    no-repeat 0 40%;
 }
 .foot-top a:hover:after {
   -webkit-animation-name: scrollTopAnim;
@@ -5660,7 +5685,8 @@ footer .foot-content {
 }
 footer .site-title {
   padding: 37px 0 20px 70px;
-  background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/grb.png) no-repeat 0 50%/50px auto;
+  background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/grb.png)
+    no-repeat 0 50%/50px auto;
 }
 footer .site-title h3 {
   color: #4a4a4a;
@@ -6409,7 +6435,8 @@ section.error h1 {
 section.error h1 a {
   display: inline-block;
   padding-left: 53px;
-  background: url(../img/logo.svg) no-repeat 0 50%;
+  background: url(http://euprava.gov.rs/TheEGovernmentTheme/img/logo.svg)
+    no-repeat 0 50%;
   background-size: 40px 55px;
   overflow: hidden;
 }
@@ -6716,7 +6743,8 @@ html.error > body {
     height: 32px;
     border-color: #fff;
     top: 7px !important;
-    background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/mclose.svg) no-repeat 50% 50%;
+    background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/mclose.svg)
+      no-repeat 50% 50%;
     background-size: 12px 12px;
   }
   body > header.open .nav {
@@ -6819,7 +6847,8 @@ html.error > body {
     border: 1px solid #4a4a4a;
     border-radius: 16px;
     margin-left: 5px;
-    background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/layer-1.svg) no-repeat 50% 50%/20px 20px;
+    background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/layer-1.svg)
+      no-repeat 50% 50%/20px 20px;
   }
   body > header .nav nav ul li.level > div > span.active {
     opacity: 1;
@@ -6856,7 +6885,8 @@ html.error > body {
     display: block;
   }
   body > header .nav nav > ul > li > ul > li.has-child > a:after {
-    background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/bcarrow.svg) 100% 50% no-repeat;
+    background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/bcarrow.svg)
+      100% 50% no-repeat;
   }
   body > header nav > ul > li.home.active > a,
   body > header nav > ul > li.home > a {
@@ -6897,7 +6927,8 @@ html.error > body {
     height: 12px;
     top: calc(50% - 6px);
     right: 22px;
-    background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/linkarrow.svg) no-repeat 50% 50%;
+    background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/linkarrow.svg)
+      no-repeat 50% 50%;
     background-size: contain;
     -webkit-filter: brightness(0) invert(1);
     filter: brightness(0) invert(1);
@@ -7427,12 +7458,14 @@ html .minimizable-web-chat > button.maximize > span {
   width: 30px;
   height: 30px;
   display: block;
-  background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/chat.svg) no-repeat 50% 50% / contain;
+  background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/chat.svg)
+    no-repeat 50% 50% / contain;
   -webkit-filter: brightness(0) invert(1);
   filter: brightness(0) invert(1);
 }
 html .minimizable-web-chat > .chat-box > header > button {
-  background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/navarrow2.svg) no-repeat 50% 50%/8px auto;
+  background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/navarrow2.svg)
+    no-repeat 50% 50%/8px auto;
 }
 html .minimizable-web-chat > .chat-box.left > header > button.switch {
   -webkit-transform: rotate(180deg);
@@ -7531,8 +7564,8 @@ html .minimizable-web-chat > .chat-box > header > button.minimize {
   line-height: 33px;
   padding: 0 30px 0 14px;
   border: 1px solid #4a4a4a;
-  background: url(../img/not-close.svg) no-repeat calc(100% - 12px) 50%/12px
-    12px;
+  background: url(http://euprava.gov.rs/TheEGovernmentTheme/img/not-close.svg)
+    no-repeat calc(100% - 12px) 50%/12px 12px;
 }
 #notification strong {
   font-weight: 700;
@@ -7580,7 +7613,8 @@ html .minimizable-web-chat > .chat-box > header > button.minimize {
   margin-right: 9px;
   content: "";
   vertical-align: middle;
-  background: url(../img/reader.svg) no-repeat 50% 50%;
+  background: url(http://euprava.gov.rs/TheEGovernmentTheme/img/reader.svg)
+    no-repeat 50% 50%;
   background-size: contain;
   margin-top: -2px;
 }
@@ -7591,7 +7625,8 @@ div.loading {
   width: 100%;
   height: 100%;
   z-index: 0;
-  background: rgba(0, 0, 0, 0.5) url(../img/45.svg) no-repeat 50% 50%;
+  background: rgba(0, 0, 0, 0.5)
+    url(http://euprava.gov.rs/TheEGovernmentTheme/img/45.svg) no-repeat 50% 50%;
   pointer-events: none;
   z-index: 20;
   -webkit-animation-name: loadingAnim;
@@ -7673,7 +7708,8 @@ div.loading {
   }
   .sub-header ul li.active a:after {
     content: "";
-    background: url(../img/bcarrow.svg) no-repeat 50% 50%/7px 10px;
+    background: url(http://euprava.gov.rs/TheEGovernmentTheme/img/bcarrow.svg)
+      no-repeat 50% 50%/7px 10px;
     width: 10px;
     height: 10px;
     position: absolute;
@@ -7726,7 +7762,7 @@ div.loading {
   top: 120px;
 }
 .check-doc.btn-primary {
-  background-image: url(../img/id2.svg);
+  background-image: url(http://euprava.gov.rs/TheEGovernmentTheme/img/id2.svg);
   background-repeat: no-repeat;
   width: 30px;
   height: 30px;
@@ -7744,7 +7780,8 @@ div.loading {
   height: 50px;
   position: relative;
   box-shadow: 0 3px 0 #c9dadf;
-  background: #fff url(../img/select.svg) no-repeat calc(100% - 10px) 50%;
+  background: #fff url(http://euprava.gov.rs/TheEGovernmentTheme/img/select.svg)
+    no-repeat calc(100% - 10px) 50%;
 }
 .num-mark {
   background-color: #d7d8d6;
@@ -8105,7 +8142,7 @@ footer .foot-social li a:before {
 }
 body > header.scrolled h1 a,
 body > header h1 a {
-  background-image: url(../img/logo-uprava.svg);
+  background-image: url(http://euprava.gov.rs/TheEGovernmentTheme/img/logo-uprava.svg);
 }
 body > header .settings-box ul li.active a:after {
   background-color: #9b9b9b;
@@ -8123,5 +8160,6 @@ body > header .my-egov > a.egov-user:before {
   -webkit-filter: none;
   filter: none;
   border-color: #4a4a4a;
-  background: url(../img/mojaeuprava-bela.svg) no-repeat 50% 50%;
+  background: url(http://euprava.gov.rs/TheEGovernmentTheme/img/mojaeuprava-bela.svg)
+    no-repeat 50% 50%;
 }
