@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg3057"
+   version="1.1"
+   viewBox="0 0 7.0556526 7.0556526"
+   height="7.0556526mm"
+   width="7.0556526mm">
+  <defs
+     id="defs3051">
+    <clipPath
+       id="clipPath1394"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path1392"
+         d="m 157.2132,906.9289 c -3.9054,3.9055 -10.2367,3.9055 -14.1421,0 -3.9055,-3.9054 -3.9055,-10.2367 0,-14.1421 3.9054,-3.9054 10.2367,-3.9054 14.1421,0 3.9054,3.9054 3.9054,10.2367 0,14.1421 z m -6.1456,-1.7262 v -4.4194 h 4.4194 v -1.8509 h -4.4194 v -4.4194 h -1.8509 v 4.4194 h -4.4194 v 1.8509 h 4.4194 v 4.4194 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath1400"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path1398"
+         d="M 0,0 H 1440 V 1384 H 0 Z" />
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata3054">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(482.80164,-14.525745)"
+     id="layer1">
+    <g
+       transform="matrix(0.35277777,0,0,-0.35277777,-532.24061,335.50343)"
+       id="g1390"
+       clip-path="url(#clipPath1394)">
+      <g
+         id="g1396"
+         clip-path="url(#clipPath1400)">
+        <path
+           d="m 150.1421,921.0711 21.2132,-21.2132 -21.2132,-21.2132 -21.2132,21.2132 z"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path1402" />
+      </g>
+    </g>
+  </g>
+</svg>

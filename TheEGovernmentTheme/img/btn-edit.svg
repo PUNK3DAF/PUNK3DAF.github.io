@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg4306"
+   version="1.1"
+   viewBox="0 0 10.583333 10.583333"
+   height="10.583333mm"
+   width="10.583333mm">
+  <defs
+     id="defs4300">
+    <clipPath
+       id="clipPath770"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         id="path768"
+         d="m 1262,937 c 8.284,0 15,6.7157 15,15 0,8.2843 -6.716,15 -15,15 -8.284,0 -15,-6.7157 -15,-15 0,-8.2843 6.716,-15 15,-15 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath776"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path774"
+         d="M 0,0 H 1440 V 1384 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath834"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path832"
+         d="m 1267.763,960 c -0.572,0 -1.147,-0.2218 -1.585,-0.6601 l -0.876,-0.8821 3.158,-3.1585 0.883,0.876 c 0.876,0.8765 0.876,2.2881 0,3.1646 -0.439,0.4383 -1.008,0.6601 -1.58,0.6601 z m -3.016,-2.0974 -8.68,-8.6734 -1.067,-4.2319 4.232,1.0672 8.673,8.6796 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath840"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path838"
+         d="M 0,0 H 1440 V 1384 H 0 Z" />
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata4303">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-82.398809,-143.54167)"
+     id="layer1">
+    <g
+       id="g828"
+       transform="matrix(0.35277777,0,0,-0.35277777,-357.51507,484.67777)">
+      <g
+         clip-path="url(#clipPath834)"
+         id="g830">
+        <g
+           clip-path="url(#clipPath840)"
+           id="g836">
+          <path
+             id="path842"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 1250,965 h 25 v -25.0027 h -25 z" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
