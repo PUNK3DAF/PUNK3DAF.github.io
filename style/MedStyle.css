@@ -1,0 +1,124 @@
+.glavni{
+    background-color: white;
+    
+}
+.roditelj1{
+    
+    position: relative;
+    display: flex;
+    padding: 20px;
+    gap: 20px;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.roditelj2{
+    
+    position: relative;
+    display: flex;
+    padding: 20px;
+    gap: 20px;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.dete3c{
+    height: 40%;
+    width: 40%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    text-align: left;
+    background-color: rgb(255, 255, 224);
+}
+
+#naslov{
+    color:goldenrod;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    font-size: 50px;
+}
+.naslov{
+    padding: 10% 20%;
+}
+.dete2b{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    flex-shrink: 3;
+    background-color:rgb(255, 255, 224);
+}
+.dete3b{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    background-color:rgb(255, 255, 224) ;
+}
+.dete2a{
+flex-shrink: 1;
+}
+.dete2c{
+flex-shrink: 1;
+}
+#forma{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+.dete4b{
+    text-align: center;
+
+}
+#dugme1{
+    color:black;
+    text-align: center;
+    background-color: goldenrod;
+    height: 60px;
+    width: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+    
+}
+#dugme2{
+    color:black;
+    text-align: center;
+    background-color:goldenrod;
+    height: 60px;
+    width: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+   
+}
+.roditelj3{
+background-color: rgb(233, 233, 143);
+margin: 10%;
+}
+#kupac{
+    text-align: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#adresa{
+    text-align: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-right: 25px;
+}
+#izaberi{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#zapreminaTegle{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#kolicinaLabel{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#nacinPlacanja{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.dugmici{
+    position:relative;
+    flex-direction: row;
+    align-items: baseline;
+    align-self: flex-end;   
+}
